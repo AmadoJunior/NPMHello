@@ -1,8 +1,8 @@
 {
-  "name": "npmhello",
+  "name": "amadodomingueznpmhello",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "hello.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
